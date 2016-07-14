@@ -67,7 +67,7 @@
    5 'WALKING_DOWNSTAIRS' 120916     13.7       
    6 'WALKING_UPSTAIRS'   132784     15.0       
 
-### Variables/Columns of tidy_data extracted from features.txt and label as descriptive variable names.
+### Variables/Columns of tidy_data extracted from features.txt and labeled as descriptive variable names.
 
 =======================================================================================================
 
