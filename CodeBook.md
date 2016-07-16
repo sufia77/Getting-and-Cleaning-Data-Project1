@@ -3,7 +3,7 @@
 
 ## Id Fields
 
-### subjectId - Unique Id for each Volunteers (1 to 30)
+### subjectId(Variable) - Unique Id for each Volunteers (1 to 30)
 
 =======================================================================================================
 
@@ -47,7 +47,7 @@
              29 '29' 29584     3.3      
              30 '30' 32938     3.7      
 
-### activityId - Unique Id for each activity (1 to 6)
+### activityId(Variable) - Unique Id for each activity (1 to 6)
 
 =======================================================================================================
 
@@ -67,7 +67,7 @@
    5 'WALKING_DOWNSTAIRS' 120916     13.7       
    6 'WALKING_UPSTAIRS'   132784     15.0       
 
-### Variables/Columns of tidy_data extracted from features.txt and labeled as descriptive variable names.
+### Other Variables/Columns of tidy_data extracted from features.txt and labeled as descriptive variable names.
 
 =======================================================================================================
 
